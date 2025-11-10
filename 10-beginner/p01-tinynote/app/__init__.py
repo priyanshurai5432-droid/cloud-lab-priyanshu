@@ -1,1 +1,0 @@
-"""TinyNote app package."""
